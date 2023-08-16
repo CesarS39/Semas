@@ -1,4 +1,3 @@
-
 package escuela.semaforointeligente;
 
 public class Semaforo{
@@ -11,5 +10,4 @@ public class Semaforo{
         this.amarrillo=a;
         this.verde=v;
     }
-    
 }
